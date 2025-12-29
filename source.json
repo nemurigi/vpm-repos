@@ -1,6 +1,6 @@
 {
     "name":"Nemurigi's VPM Packagegs",
-    "id":"dev.nemurigi.vpm",
+    "id":"com.nemurigi.vpm",
     "url":"https://nemurigi.github.io/vpm-repos/index.json",
     "author":{
         "name":"nemurigi",
